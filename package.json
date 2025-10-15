@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/JuanGualdronGallo1203/Gestion_Videojuegos-FullStack-Express.js---back#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
+    "express-validator": "^7.2.1",
     "mongodb": "^6.20.0",
     "nodemon": "^3.1.10"
   }
