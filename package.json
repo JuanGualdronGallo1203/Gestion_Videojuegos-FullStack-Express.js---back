@@ -2,9 +2,11 @@
   "name": "gestor-videojuegos",
   "version": "1.0.0",
   "description": "Un gestor de videojuegos funcional con el crud basico",
-  "main": "main.js",
+  "main": "main.js", 
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
   },
   "repository": {
     "type": "git",
@@ -15,13 +17,5 @@
   "bugs": {
     "url": "https://github.com/JuanGualdronGallo1203/Gestion_Videojuegos-FullStack-Express.js---back/issues"
   },
-  "homepage": "https://github.com/JuanGualdronGallo1203/Gestion_Videojuegos-FullStack-Express.js---back#readme",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^17.2.3",
-    "express": "^5.1.0",
-    "express-validator": "^7.2.1",
-    "mongodb": "^6.20.0",
-    "nodemon": "^3.1.10"
-  }
+  "homepage": "https://github.com/JuanGualdronGallo1203/Gestion_Videojuegos-FullStack-Express.js---back#readme"
 }
