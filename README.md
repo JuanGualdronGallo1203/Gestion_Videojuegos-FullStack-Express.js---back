@@ -130,3 +130,4 @@ Validación de stock suficiente
  - Repositorio front (🔗 https://github.com/JuanGualdronGallo1203/Gestion_Videojuegos-FullStack-Express.js---front)
 
  - ultimo hash back : 
+ 
