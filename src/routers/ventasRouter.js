@@ -18,6 +18,7 @@ const validarVenta = [
 
 // Rutas
 router.get("/", VentasController.obtenerTodas);
+router.get("/estadisticas", VentasController.obtenerEstadisticas);
 router.get("/:id", VentasController.obtenerPorId);
 router.post("/", validarVenta, VentasController.crear);
 router.put("/:id", VentasController.actualizar);
