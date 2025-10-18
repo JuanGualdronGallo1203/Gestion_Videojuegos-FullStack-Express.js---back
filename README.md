@@ -315,5 +315,11 @@ Obtiene un resumen de las ventas (total, promedio) y un ranking de productos má
   }
 }
 ```
+## Video
+
+Para ver explicación mira el siguiente video:
+
+[**visualizar video explicativo**](https://drive.google.com/file/d/17OfScKoDbThm_O1d3GqU6XPe6YTlyrzR/view?usp=sharing)
+
 ## Autor
 - Juan Sebastián Gualdron
